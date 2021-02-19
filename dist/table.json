@@ -1,0 +1,33 @@
+{
+    "list": [{
+            "workdate": "2/20",
+            "day": "4小赵,6小王",
+            "dayContent":"CSW,IMG",
+            "night": "5小吴",
+            "nightContent":"SVG"
+        },
+        {
+            "workdate": "2/21",
+            "day": "4小王",
+            "dayContent":"CSW,IMG",
+            "night": "6小杨",
+            "nightContent":"SVG"
+        },
+        {
+            "workdate": "2/22",
+            "day": "6小明",
+            "dayContent":"CSW",
+            "night": "5小冯",
+            "nightContent": "IMG"
+            
+        },
+        {
+            "workdate": "2/23",
+            "day": "5小红",
+            "dayContent":"SVG",
+            "night": "4小蒋",
+            "nightContent": "IMG"
+        }
+    ],
+    "pageTotal": 4
+}
